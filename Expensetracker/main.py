@@ -42,7 +42,7 @@ def main():
                         keyInfo = input(f"{i}:")
             else:
                 keyInfo = input(f"{i}:")
-        # print(expense)
+                expense[i] = keyInfo
         #push the expense on newExpenses
         newExpensesToAdd.append(expense)
         print('Expenses', newExpensesToAdd)
