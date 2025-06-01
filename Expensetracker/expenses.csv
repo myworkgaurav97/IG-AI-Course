@@ -1,10 +1,7 @@
-date,catergory,amount,description
-2025-05-01,food,100,lunch
-2025-05-02,game,300,turf
-2025-05-06,moive,400,moive with friends
-2025-05-10,travel,1500,waterfall trip
-2025-05-11,food,500,dinner
-2025-05-14,moive,400.0,moive
-2025-05-18,travel,500.0,night out
-2025-04-01,food,300.0,dinner
-2025-04-10,food,300.0,
+date,category,amount,description
+2025-05-05,food,200.0,lunch
+2025-05-03,game,200.0,games
+2025-05-03,moive,300.0,moive with friends
+2025-05-12,food,300.0,dinner
+2025-05-10,brakfast,100.0,morning breakfast
+2025-04-12,food,300.0,lunch
